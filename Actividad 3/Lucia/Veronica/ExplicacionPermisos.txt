@@ -1,0 +1,10 @@
+Niveles de Permisos:
+- Propietario: Es el usuario que crea el archivo o carpeta.
+- Grupo: Usuarios que pertenecen a un grupo de trabajo.
+- Resto de Usuarios: Usuarios que no pertecen a un grupo ni son propietarios.
+
+Tipos de Permisos en Archivos:
+- Lectura (r): Solo puede ver el contenido del archivo, no modificalro o borrarlo.
+- Escritura (w): Puede modificar el archivo y también borrarlo.
+- Ejecución (x): Puede ejecutar los archivos, accedar a las características de los archivos. 
+
